@@ -1,0 +1,5 @@
+numbers.push(8)
+// numbers.push(8)
+// // numbers.pop()
+// // numbers.pop()
+// // numbers.pop()
